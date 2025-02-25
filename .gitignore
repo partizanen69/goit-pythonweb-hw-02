@@ -1,5 +1,5 @@
 venv/
-
+postgres_data/
 
 **/*.pyc
 **/*.pyo
